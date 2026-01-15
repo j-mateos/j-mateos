@@ -1,5 +1,3 @@
-## Hi there 👋
-
 <!--
 **j-mateos/j-mateos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +12,52 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+<h1 align="center">Hello, I'm Juanma! 👋</h1>
+
+<article align="center">
+	<a href="portfolio-rose-mu-11.vercel.app">
+		<img align="center" src="https://img.shields.io/badge/Website-B59012?style=for-the-badge" alt="website" />
+	</a>
+	<a href="https://www.linkedin.com/in/jmateosperez/">
+		<img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge" alt="linkedin" />
+	</a>
+	<a href="https://mail.google.com/mail/?view=cm&to=jm.matperez@gmail.com"
+		onclick="navigator.clipboard.writeText('jm.matperez@gmail.com')">
+		<img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge" alt="email" />
+	</a>
+</article>
+
+## 🗿 About me
+
+<section>
+	<ul>
+		<li>👨‍💻 DevSecOps Analyst with a strong focus on security, automation, and software quality.</li>
+		<li>🎓 Computer Science Engineer and Mathematic.</li>
+		<li>🔐 Interested in software architecture, development best practices, and security by design.</li>
+		<li>🐳 Experience working with containers, cloud environments and CI/CD pipelines.</li>
+		<li>🚀 Continuous learner, always exploring new technologies and tools to improve processes.</li>
+		<li>🏊‍♂️ Active athlete: swimming, basketball, and hiking as part of an active lifestyle.</li>
+		<li>🤿 Divemaster, passionate about scuba diving and the underwater world.</li>
+	</ul>
+</section>
+
+## 💻 Technology stack
+
+<section>
+	<a href="https://skillicons.dev">
+		<img
+			src="https://skillicons.dev/icons?i=html,css,js,nodejs,java,cpp,c,py,ruby,postgresql,mysql,git,linux,bash,docker" />
+	</a>
+</section>
+
+## ⚙️ GitHub Analytics
+
+<section align="center">
+	<a href="https://github.com/j-mateos">
+		<img height="180em"
+			src="https://github-readme-stats-eight-theta.vercel.app/api?username=j-mateos&show_icons=true&theme=algolia&include_all_commits=true&count_private=true" />
+		<img height="180em"
+			src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=j-mateos&layout=compact&langs_count=8&theme=algolia" />
+	</a>
+</section>
