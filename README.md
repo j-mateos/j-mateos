@@ -32,7 +32,7 @@ Here are some ideas to get you started:
 <section>
 	<ul>
 		<li>👨‍💻 DevSecOps Analyst with a strong focus on security, automation, and software quality.</li>
-		<li>🎓 Computer Science Engineer and Mathematician.</li>
+		<li>🎓 Computer Engineer and Mathematician.</li>
 		<li>🔐 Interested in software architecture, development best practices, and security by design.</li>
 		<li>🐳 Experience working with containers, cloud environments, and CI/CD pipelines.</li>
 		<li>🚀 Continuous learner, always exploring new technologies and tools to improve processes.</li>
