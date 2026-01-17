@@ -37,7 +37,7 @@ Here are some ideas to get you started:
 		<li>🐳 Experience working with containers, cloud environments, and CI/CD pipelines.</li>
 		<li>🚀 Continuous learner, always exploring new technologies and tools to improve processes.</li>
 		<li>🏊‍♂️ Active athlete: swimming, basketball, and hiking as part of an active lifestyle.</li>
-		<li>🤿 Divemaster, passionate about scuba diving and the underwater world.</li>
+		<li>🤿 Certified Divemaster with a passion for scuba diving and the underwater world.</li>
 	</ul>
 </section>
 
