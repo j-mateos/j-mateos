@@ -29,10 +29,12 @@
 ## 💻 Technology stack
 
 <section>
-	<a href="https://skillicons.dev">
-		<img
-			src="https://skillicons.dev/icons?i=react,js,tailwind,bootstrap,html,css,java,spring,nodejs,py,cpp,c,ruby,postgresql,mysql,git,docker,proxmox,bash&perline=10" />
-	</a>
+	<p align="center">
+		<a href="https://skillicons.dev">
+			<img
+				src="https://skillicons.dev/icons?i=react,js,tailwind,bootstrap,html,css,java,spring,nodejs,py,cpp,c,ruby,postgresql,mysql,git,docker,bash&perline=10" />
+		</a>
+	</p>
 </section>
 
 ## ⚙️ GitHub Analytics
