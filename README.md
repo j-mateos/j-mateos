@@ -31,7 +31,7 @@
 <section>
 	<a href="https://skillicons.dev">
 		<img
-			src="https://skillicons.dev/icons?i=html,css,js,nodejs,java,cpp,c,py,ruby,postgresql,mysql,git,linux,bash,docker" />
+			src="https://skillicons.dev/icons?i=react,js,tailwind,bootstrap,html,css,java,spring,nodejs,py,cpp,c,ruby,postgresql,mysql,git,docker,proxmox,bash&perline=10" />
 	</a>
 </section>
 
